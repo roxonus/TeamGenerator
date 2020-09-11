@@ -18,7 +18,6 @@ const render = require("./lib/htmlRenderer");
 // After the user has input all employees desired, call the `render` function (required
 // above) and pass in an array containing all employee objects; the `render` function will
 // generate and return a block of HTML including templated divs for each employee!
-
 // After you have your html, you're now ready to create an HTML file using the HTML
 // returned from the `render` function. Now write it to a file named `team.html` in the
 // `output` folder. You can use the variable `outputPath` above target this location.
@@ -35,10 +34,7 @@ const render = require("./lib/htmlRenderer");
 // object with the correct structure and methods. This structure will be crucial in order
 // for the provided `render` function to work! ```
 
-//var teamMembers = [];
-//function buildPage() {
-  //fs.writeFileSync(outputPath, render(teamMembers), 'utf-8')
-//}
+
 function createTeam() {
   inquirer.prompt([
     {
