@@ -20,5 +20,11 @@ MIT
 
 # Tests
 
+<<<<<<< HEAD
 <hr>
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+=======
+https://drive.google.com/file/d/16eW--vZzz7-3fx-J2HLyh2MnJdKNXljZ/view?usp=sharing
+
+![](Assets/generatedReadme.md)
+>>>>>>> 43fe2644749cff8471f31f06187285e7cde5c690
